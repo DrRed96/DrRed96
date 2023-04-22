@@ -1,5 +1,7 @@
-## About Me:
+## About Me Thingy:
 I'm Cal, I do code. Currently busy in year 12
+
+## Socials:
 - **Discord:** [Calculus#0001](https://discordapp.com/users/597603275365285901)
 - **Telegram:** [@DrRed96](https://t.me/DrRed96)
 
