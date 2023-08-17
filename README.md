@@ -3,7 +3,7 @@ I'm Cal, I do code. Currently busy in year 12
 
 ## Socials:
 - **Discord:** [calculus_](https://discordapp.com/users/597603275365285901)
-- **Telegram:** [@DrRed96](https://t.me/DrRed96)
+- **Telegram:** [DrRed96](https://t.me/DrRed96)
 
 ## My Languages:
 <a href="https://www.w3schools.com/c/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
