@@ -2,7 +2,7 @@
 I'm Cal, I do code.
 
 ## Socials:
-- **Discord:** ~~calculus_~~ Nah...
+- **Discord:** [i_dont_exist_lol](https://discord.com/users/1165302964093722697)
 - **Telegram:** [i_do_not_exist_lol](https://t.me/i_do_not_exist_lol)
 
 ## My Languages:
